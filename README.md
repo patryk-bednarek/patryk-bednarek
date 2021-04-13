@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @patryk-bednarek
-- 👀 I’m interested in JAVA programming using Spring framework.
+- 👀 I’m interested in JAVA programming.
 - 🌱 I’m currently learning PHP, AngularJS, Kotlin and React.
 - 💞️ I want to work on real projects as an intern in a company that will help me grow.
 - 📫 How to reach me : patrykbedek@gmail.com or LinkedIn: /in/patrykbednarek/
