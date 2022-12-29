@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @patryk-bednarek
-- 👀 I’m interested in JAVA programming.
-- 🌱 I’m currently learning Android and Angular.
 - 📫 How to reach me : patrykbedek@gmail.com or LinkedIn: /in/patrykbednarek/
                         
 
