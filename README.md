@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @patryk-bednarek
+- 👋 Hi, I’m @patryk-bednarek, Junior Java Developer
 - 📫 How to reach me : patrykbedek@gmail.com or LinkedIn: /in/patrykbednarek/
                         
 
